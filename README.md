@@ -1,6 +1,5 @@
-# Obby Parkour Ultimate
-
-Welcome to [Obby Parkour Ultimate](https://obby.online/) - The most engaging online parkour challenge game that puts your skills and reflexes to the ultimate test!
+# Obby online game
+Welcome to [Obby online game](https://obby.online/) - The most engaging online parkour challenge game that puts your skills and reflexes to the ultimate test!
 
 ## 🎮 Game Overview
 
